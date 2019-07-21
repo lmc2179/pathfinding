@@ -1,1 +1,1 @@
-# pathfinding
+# state_space_search
